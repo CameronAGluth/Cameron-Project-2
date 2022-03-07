@@ -2,6 +2,13 @@ section {
   margin: auto;
   text-align: center;
 }
-body {
+.home {
   background-color: Yellow
+}
+.cameronjobsummary {
+  background-color: lightblue
+}
+
+.taxes {
+  background-color: rgb(201, 76, 76);
 }
