@@ -1,6 +1,7 @@
 section {
   margin: auto;
   text-align: center;
+  padding-bottom: 2.5em;
 }
 .home {
   background-color: Yellow
@@ -10,5 +11,29 @@ section {
 }
 
 .taxes {
-  background-color: rgb(201, 76, 76);
+  background-color: rgb(204, 71, 101);
+}
+li {
+  font-family: Arial, Helvetica, sans-serif;
+}
+p {
+  font-family: cursive;
+}
+.links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+nav {
+  background-color: lightgreen;
+  text-align: center;
+  position: relative;
+  margin-bottom: 1em;
+  padding: 1em;
+}
+body{
+  margin: 0;
 }
