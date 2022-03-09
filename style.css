@@ -21,8 +21,8 @@ p {
 }
 .links {
   list-style: none;
-  margin: 0;
-  padding: 0;
+  margin: 0em;
+  padding: 0em;
 }
 a {
   text-decoration: none;
@@ -35,5 +35,5 @@ nav {
   padding: 1em;
 }
 body{
-  margin: 0;
+  margin: 0em;
 }
