@@ -24,7 +24,7 @@ p {
   margin: 0em;
   padding: 0em;
 }
-a {
+a[type="text/css"] {
   text-decoration: none;
 }
 nav {
