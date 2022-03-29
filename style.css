@@ -37,3 +37,18 @@ nav {
 body{
   margin: 0em;
 }
+.alignedlist {
+  list-style: none;
+  text-align: left;
+  margin: auto;
+  width: 59%
+}
+.bulletedalign {
+  text-align: left;
+  float: right;
+  margin: auto;
+  width: 59%
+}
+iframe{
+  margin: 1em;
+}
